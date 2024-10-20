@@ -20,6 +20,6 @@ I'm a computer science enthusiast with a passion for software development 💻 a
 - Exploring new cultures through travel ✈️
 
 ### Connect with Me
-- [LinkedIn]((https://www.linkedin.com/in/tehj-patel-56a5562a2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Blwav%2B1APTyqLBf9jUhFM8A%3D%3D)) 🌐
+- [LinkedIn](https://www.linkedin.com/in/tehj-patel-56a5562a2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Blwav%2B1APTyqLBf9jUhFM8A%3D%3D) 🌐
 
 Feel free to check out my repositories and reach out if you'd like to collaborate or chat! 🤝
