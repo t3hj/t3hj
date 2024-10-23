@@ -1,4 +1,4 @@
-# Hi there, I'm t3hj! 👋
+# Hi there, I'm Tehj! 👋
 
 ### About Me
 I'm a computer science enthusiast with a passion for software development 💻 and cybersecurity 🔒. I enjoy exploring new technologies and working on exciting projects that challenge my skills. I'm currently pursuing opportunities in the tech industry, aiming to grow personally and professionally.
