@@ -9,15 +9,6 @@ I'm a computer science enthusiast with a passion for software development 💻 a
 - **Frameworks & Tools**: Visual Studio 🛠️, Firebase, Git
 - **Database Management**: MySQL, SQLite 📊
 
-### Projects 🚀
-
-- **[Stanmore College App](https://github.com/t3hj/StanmoreCollegeApp)** 🏫: A mock-up application showcasing various college features, including student timetables, course information, and user authentication, developed using C# and XAML.
-
-- **[SwiftBot Navigation](https://github.com/t3hj/SwiftBotNavigation)** 🤖: A navigation program for a SwiftBot, enabling it to follow commands received via QR codes for movement and actions, including retracing steps and logging commands.
-
-- **[Card Game](https://github.com/t3hj/CardGame)** ♠️: A two-player card game built in Python where players compete by comparing card values and colors, with scores and winners tracked through external files.
-
-
 ### Interests
 - Software Development 💡
 - Cybersecurity 🔍
