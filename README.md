@@ -4,7 +4,7 @@
 I'm a computer science enthusiast with a passion for software development 💻 and cybersecurity 🔒. I enjoy exploring new technologies and working on exciting projects that challenge my skills. I'm currently pursuing opportunities in the tech industry, aiming to grow personally and professionally.
 
 ### Skills
-- **Programming Languages**: Python 🐍, Java ☕, Swift
+- **Programming Languages**: Python 🐍, Java ☕
 - **Web Technologies**: HTML 🌐, CSS 🎨, JavaScript 💻
 - **Frameworks & Tools**: Visual Studio 🛠️, Firebase, Git
 - **Database Management**: MySQL, SQLite 📊
