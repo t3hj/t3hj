@@ -3,6 +3,8 @@
 ### About Me
 I'm a computer science enthusiast with a passion for software development ![💻](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Computer%20laptop.png) and cybersecurity ![🔒](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Padlock.png). I enjoy exploring new technologies and working on exciting projects that challenge my skills. I'm currently pursuing opportunities in the tech industry, aiming to grow personally and professionally.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=t3hj&label=Profile%20views&color=0e75b6&style=flat" alt="t3hj" /> </p>
+
 ### Skills
 - **Programming Languages**: Python ![🐍](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Snake.png), Java ![☕](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coffee.png)
 - **Web Technologies**: HTML ![🌐](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20showing%20Europe%20Africa.png), CSS ![🎨](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20palette.png), JavaScript ![💻](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Computer%20laptop.png)
