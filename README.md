@@ -60,6 +60,23 @@ I'm a computer science enthusiast with a passion for software development ![💻
 - [Instagram](https://www.instagram.com/t3hj_p/profilecard/?igsh=N3o0MDhoeHVubHVu) 📸
 - Email: [tehjpatel@gmail.com](mailto:tehjpatel@gmail.com)
 
+  
+<p align="left">
+  <a href="https://www.linkedin.com/in/tehj-patel-56a5562a2/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/t3hj_p/profilecard/?igsh=N3o0MDhoeHVubHVu" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
+  </a>
+  <a href="https://discord.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40"/>
+  </a>
+  <a href="mmailto:tehjpatel@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
+  </a>
+</p>
+
+
 Feel free to check out my repositories and reach out if you'd like to collaborate or chat! 🤝
 
 ## My Repositories
