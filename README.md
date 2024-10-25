@@ -37,13 +37,8 @@ Feel free to check out my repositories and reach out if you'd like to collaborat
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=t3hj&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t3hj&size_weight=0.5&count_weight=0.5&theme=transparent&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t3hj&size_weight=0.5&count_weight=0.5&theme=transparent&langs_count=8" />
 </a>
-
-[![Tehj's GitHub stats](https://github-readme-stats.vercel.app/api?username=t3hj&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-## My Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t3hj&size_weight=0.5&count_weight=0.5&theme=transparent)
 
 ## My Streak
 [![Tehj's current streak](https://streak-stats.demolab.com/?user=t3hj&count_private=true&theme=blue&title_color=%23364fc7)](#)
