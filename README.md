@@ -32,6 +32,14 @@ Feel free to check out my repositories and reach out if you'd like to collaborat
 [![Stanmore College App](https://github-readme-stats.vercel.app/api/pin/?username=t3hj&repo=StanmoreCollegeApp&theme=shadow_blue)](https://github.com/t3hj/StanmoreCollegeApp)
 
 ## My GitHub Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=t3hj&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t3hj&size_weight=0.5&count_weight=0.5&theme=transparent&langs_count=8&card_width=320" />
+</a>
+
 [![Tehj's GitHub stats](https://github-readme-stats.vercel.app/api?username=t3hj&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Most Used Languages
