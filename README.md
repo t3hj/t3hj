@@ -32,12 +32,23 @@ Feel free to check out my repositories and reach out if you'd like to collaborat
 
 Github Stats 
 
-### GitHub Stats
-![Tehj's github stats](https://bad-apple-github-readme.vercel.app/api?username=t3hj&show_icons=true&count_private=true&line_height=20&icon_color=%23862e9c&title_color=%23364fc7&theme=dark)
+## My GitHub Stats
+[![Tehj's github stats](https://bad-apple-github-readme.vercel.app/api?username=t3hj&show_icons=true&count_private=true&line_height=20&icon_color=indigo&theme=shadow_blue&title_color=grape)](#)
 
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=t3hj&layout=compact&count_private=true&theme=dark&title_color=%23364fc7)](#)
+## Top Languages
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=t3hj&layout=compact&count_private=true&theme=shadow_blue&title_color=grape)](#)
 
-[![Tehj's current streak](https://streak-stats.demolab.com/?user=t3hj&count_private=true&theme=dark&title_color=%23364fc7)](#)
+## My Repositories
+[![Tehj's Repositories](https://github-readme-stats.vercel.app/api/pin/?username=t3hj&repo=SnakeGame&theme=shadow_blue)](https://github.com/t3hj/SnakeGame)
+
+## My Gists
+[![Tehj's Gists](https://github-readme-gists.vercel.app/api/gists?username=t3hj&theme=shadow_blue)](https://gist.github.com/t3hj)
+
+## WakaTime Stats
+[![Tehj's WakaTime Stats](https://wakatime.com/badge/user/xxxxxxx.svg?style=flat-square)](https://wakatime.com/@xxxxxxx)
+
+
+[![Tehj's current streak](https://streak-stats.demolab.com/?user=t3hj&count_private=true&theme=blue&title_color=%23364fc7)](#)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
