@@ -34,10 +34,8 @@ Feel free to check out my repositories and reach out if you'd like to collaborat
 ## My GitHub Stats
 [![Tehj's GitHub stats](https://github-readme-stats.vercel.app/api?username=t3hj&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=t3hj&repo=github-readme-stats)](https://github.com/t3hj/SnakeGame)
-
-## My Top Languages
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=t3hj&layout=compact&count_private=true&theme=shadow_blue&title_color=grape)](#)
+## My Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t3hj&size_weight=0.5&count_weight=0.5)
 
 ## My Streak
 [![Tehj's current streak](https://streak-stats.demolab.com/?user=t3hj&count_private=true&theme=blue&title_color=%23364fc7)](#)
