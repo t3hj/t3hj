@@ -33,15 +33,11 @@ Feel free to check out my repositories and reach out if you'd like to collaborat
 
 ## My GitHub Stats
 
-<a >
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=t3hj&show_icons=true&theme=shadow_blue" />
-</a>
-<a >
-  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=t3hj&count_private=true&theme=shadow_blue" />
-</a>
-<a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t3hj&size_weight=0.5&count_weight=0.5&theme=shadow_blue&langs_count=8"/>
-</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=t3hj&show_icons=true&theme=shadow_blue&locale=en&layout=compact" alt="t3hj" /></p>
+
+<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=t3hj&count_private=true&theme=shadow_blue&show_icons=true&locale=en" alt="t3hj" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t3hj&size_weight=0.5&count_weight=0.5&theme=shadow_blue&langs_count=8&" alt="t3hj" /></p>
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
