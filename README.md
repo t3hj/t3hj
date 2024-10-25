@@ -39,7 +39,13 @@ Github Stats
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=t3hj&layout=compact&count_private=true&theme=shadow_blue&title_color=grape)](#)
 
 ## My Repositories
-[![Tehj's Repositories](https://github-readme-stats.vercel.app/api/pin/?username=t3hj&repo=SnakeGame&theme=shadow_blue)](https://github.com/t3hj/SnakeGame)
+
+[![Snake Game](https://github-readme-stats.vercel.app/api/pin/?username=t3hj&repo=SnakeGame&theme=shadow_blue)](https://github.com/t3hj/SnakeGame)
+[![Rock Paper Scissors GUI](https://github-readme-stats.vercel.app/api/pin/?username=t3hj&repo=RockPaperScissorsGUI&theme=shadow_blue)](https://github.com/t3hj/RockPaperScissorsGUI)
+[![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=t3hj&repo=WeatherApp&theme=shadow_blue)](https://github.com/t3hj/WeatherApp)
+[![Card Game](https://github-readme-stats.vercel.app/api/pin/?username=t3hj&repo=CardGame&theme=shadow_blue)](https://github.com/t3hj/CardGame)
+[![Simple Translator](https://github-readme-stats.vercel.app/api/pin/?username=t3hj&repo=SimpleTranslator&theme=shadow_blue)](https://github.com/t3hj/SimpleTranslator)
+[![Stanmore College App](https://github-readme-stats.vercel.app/api/pin/?username=t3hj&repo=StanmoreCollegeApp&theme=shadow_blue)](https://github.com/t3hj/StanmoreCollegeApp)
 
 ## My Gists
 [![Tehj's Gists](https://github-readme-gists.vercel.app/api/gists?username=t3hj&theme=shadow_blue)](https://gist.github.com/t3hj)
