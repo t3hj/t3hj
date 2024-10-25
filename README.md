@@ -48,13 +48,6 @@ I'm a computer science enthusiast with a passion for software development ![💻
   </a>
 </p>
 
-          
-### Interests
-- Software Development ![💡](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bulb.png)
-- Cybersecurity ![🔍](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20glass%20tilted%20right.png)
-- Game Development ![🎮](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Video%20game.png)
-- Exploring new cultures through travel ![✈️](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane.png)
-
 ### Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/tehj-patel-56a5562a2/" target="_blank" rel="noreferrer">
@@ -70,8 +63,6 @@ I'm a computer science enthusiast with a passion for software development ![💻
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
-
-
 
 Feel free to check out my repositories and reach out if you'd like to collaborate or chat! 🤝
 
