@@ -30,9 +30,14 @@ Feel free to check out my repositories and reach out if you'd like to collaborat
 - [Simple Translator](https://github.com/t3hj/SimpleTranslator)
 - [Stanmore College App](https://github.com/t3hj/StanmoreCollegeApp)
 
-### GitHub Stats
-![Tehj's github stats](https://bad-apple-github-readme.vercel.app/api?username=t3hj&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)
-![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=t3hj&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)
+Github Stats 
+
+ [![Tehj's github stats](https://bad-apple-github-readme.vercel.app/api?username=t3hj&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-red&title_color=00b3ff)](#)
+ 
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=t3hj&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+[![Tehj's current streak](https://streak-stats.demolab.com/?user=t3hj&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
