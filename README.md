@@ -41,7 +41,7 @@ Feel free to check out my repositories and reach out if you'd like to collaborat
 </a>
 
 ## My Streak
-[![Tehj's current streak](https://streak-stats.demolab.com/?user=t3hj&count_private=true&theme=blue&title_color=%23364fc7)](#)
+[![Tehj's current streak](https://streak-stats.demolab.com/?user=t3hj&count_private=true&theme=shadow_blue)](#)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
