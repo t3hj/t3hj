@@ -32,7 +32,7 @@ Feel free to check out my repositories and reach out if you'd like to collaborat
 [![Stanmore College App](https://github-readme-stats.vercel.app/api/pin/?username=t3hj&repo=StanmoreCollegeApp&theme=shadow_blue)](https://github.com/t3hj/StanmoreCollegeApp)
 
 ## My GitHub Stats
-[![Tehj's GitHub stats](https://github-readme-stats.vercel.app/api?username=t3hj&show_icons=true&theme=transparent)]
+[![Tehj's GitHub stats](https://github-readme-stats.vercel.app/api?username=t3hj&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Top Languages
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=t3hj&layout=compact&count_private=true&theme=shadow_blue&title_color=grape)](#)
