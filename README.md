@@ -64,9 +64,8 @@ I'm a computer science enthusiast with a passion for software development ![💻
   </a>
 </p>
 
-Feel free to check out my repositories and reach out if you'd like to collaborate or chat! 🤝
-
 ## My Repositories
+Feel free to check out my repositories and reach out if you'd like to collaborate or chat! 🤝
 
 [![Snake Game](https://github-readme-stats.vercel.app/api/pin/?username=t3hj&repo=SnakeGame&theme=shadow_blue)](https://github.com/t3hj/SnakeGame)
 [![Rock Paper Scissors GUI](https://github-readme-stats.vercel.app/api/pin/?username=t3hj&repo=RockPaperScissorsGUI&theme=shadow_blue)](https://github.com/t3hj/RockPaperScissorsGUI)
