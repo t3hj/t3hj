@@ -40,7 +40,7 @@ Feel free to check out my repositories and reach out if you'd like to collaborat
   <img height=200 align="center" src="https://streak-stats.demolab.com/?user=t3hj&count_private=true&theme=shadow_blue" />
 </a>
 <a>
-  <(https://github-readme-stats.vercel.app/api/top-langs/?username=t3hj&size_weight=0.5&count_weight=0.5&theme=shadow_blue&langs_count=8&align="center")](#)>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t3hj&size_weight=0.5&count_weight=0.5&theme=shadow_blue&langs_count=8"/>
 </a>
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
