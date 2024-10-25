@@ -3,7 +3,7 @@
 ### About Me
 I'm a computer science enthusiast with a passion for software development ![💻](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Computer%20laptop.png) and cybersecurity ![🔒](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Padlock.png). I enjoy exploring new technologies and working on exciting projects that challenge my skills. I'm currently pursuing opportunities in the tech industry, aiming to grow personally and professionally.
 
-<br><img align="center" alt="Coding" width="1000px" height="500vh" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<br><img align="center" alt="Mario" width="1000px" height="500vh" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t3hj&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
@@ -43,6 +43,5 @@ Feel free to check out my repositories and reach out if you'd like to collaborat
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t3hj&size_weight=0.5&count_weight=0.5&theme=shadow_blue&langs_count=8&" alt="t3hj" /></p>
 
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000px">
+<br><br>
