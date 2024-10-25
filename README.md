@@ -1,6 +1,6 @@
-# Hi there, I'm Tehj ! 👋
+# <span style="color:#778BA5;">Hi there, I'm Tehj ! 👋</span>
 
-### About Me
+### <span style="color:#778BA5;">About Me</span>
 I'm a computer science enthusiast with a passion for software development ![💻](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Computer%20laptop.png) and cybersecurity ![🔒](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Padlock.png). I enjoy exploring new technologies and working on exciting projects that challenge my skills. I'm currently pursuing opportunities in the tech industry, aiming to grow personally and professionally.
 
 <!--<br><img align="center" alt="Mario" width="1000px" height="500vh" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">-->
