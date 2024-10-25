@@ -23,22 +23,6 @@ I'm a computer science enthusiast with a passion for software development ![💻
 Feel free to check out my repositories and reach out if you'd like to collaborate or chat! 🤝
 
 ### My Repositories
-- [Snake Game](https://github.com/t3hj/SnakeGame)
-- [Rock Paper Scissors GUI](https://github.com/t3hj/RockPaperScissorsGUI)
-- [Weather App](https://github.com/t3hj/WeatherApp)
-- [Card Game](https://github.com/t3hj/CardGame)
-- [Simple Translator](https://github.com/t3hj/SimpleTranslator)
-- [Stanmore College App](https://github.com/t3hj/StanmoreCollegeApp)
-
-Github Stats 
-
-## My GitHub Stats
-[![Tehj's github stats](https://bad-apple-github-readme.vercel.app/api?username=t3hj&show_icons=true&count_private=true&line_height=20&icon_color=indigo&theme=shadow_blue&title_color=grape)](#)
-
-## Top Languages
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=t3hj&layout=compact&count_private=true&theme=shadow_blue&title_color=grape)](#)
-
-## My Repositories
 
 [![Snake Game](https://github-readme-stats.vercel.app/api/pin/?username=t3hj&repo=SnakeGame&theme=shadow_blue)](https://github.com/t3hj/SnakeGame)
 [![Rock Paper Scissors GUI](https://github-readme-stats.vercel.app/api/pin/?username=t3hj&repo=RockPaperScissorsGUI&theme=shadow_blue)](https://github.com/t3hj/RockPaperScissorsGUI)
@@ -47,13 +31,15 @@ Github Stats
 [![Simple Translator](https://github-readme-stats.vercel.app/api/pin/?username=t3hj&repo=SimpleTranslator&theme=shadow_blue)](https://github.com/t3hj/SimpleTranslator)
 [![Stanmore College App](https://github-readme-stats.vercel.app/api/pin/?username=t3hj&repo=StanmoreCollegeApp&theme=shadow_blue)](https://github.com/t3hj/StanmoreCollegeApp)
 
-## My Gists
-[![Tehj's Gists](https://github-readme-gists.vercel.app/api/gists?username=t3hj&theme=shadow_blue)](https://gist.github.com/t3hj)
+Github Stats 
 
-## WakaTime Stats
-[![Tehj's WakaTime Stats](https://wakatime.com/badge/user/xxxxxxx.svg?style=flat-square)](https://wakatime.com/@xxxxxxx)
+## My GitHub Stats
+[![Tehj's github stats](https://bad-apple-github-readme.vercel.app/api?username=t3hj&show_icons=true&count_private=true&line_height=20&icon_color=indigo&theme=shadow_blue&title_color=grape)](#)
 
+## My Top Languages
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=t3hj&layout=compact&count_private=true&theme=shadow_blue&title_color=grape)](#)
 
+## My Streak
 [![Tehj's current streak](https://streak-stats.demolab.com/?user=t3hj&count_private=true&theme=blue&title_color=%23364fc7)](#)
 
 <p align="center">
