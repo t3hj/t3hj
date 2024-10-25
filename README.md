@@ -33,10 +33,9 @@ Feel free to check out my repositories and reach out if you'd like to collaborat
 
 ## My GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=t3hj&show_icons=true&theme=shadow_blue" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+
   <img height=200 align="center" src="https://streak-stats.demolab.com/?user=t3hj&count_private=true&theme=shadow_blue" />
 </a>
 
