@@ -1,4 +1,4 @@
-# <span style="color:#778BA5;">Hi there, I'm Tehj ! 👋</span>
+# <br><img align="center" alt="Banner" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7">
 
 ### <span style="color:#778BA5;">About Me</span>
 I'm a computer science enthusiast with a passion for software development ![💻](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Computer%20laptop.png) and cybersecurity ![🔒](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Padlock.png). I enjoy exploring new technologies and working on exciting projects that challenge my skills. I'm currently pursuing opportunities in the tech industry, aiming to grow personally and professionally.
