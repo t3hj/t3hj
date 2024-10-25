@@ -34,9 +34,9 @@ Github Stats
 
  [![Tehj's github stats](https://bad-apple-github-readme.vercel.app/api?username=t3hj&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-black&title_color=00b3ff)](#)
  
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=t3hj&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=t3hj&layout=compact&count_private=true&theme=blue-red&title_color=00b3ff)](#)
 
-[![Tehj's current streak](https://streak-stats.demolab.com/?user=t3hj&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![Tehj's current streak](https://streak-stats.demolab.com/?user=t3hj&count_private=true&theme=blue-pink&title_color=00b3ff)](#)
 
 
 <p align="center">
