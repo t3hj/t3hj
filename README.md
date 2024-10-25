@@ -33,11 +33,11 @@ Feel free to check out my repositories and reach out if you'd like to collaborat
 Github Stats 
 
 ### GitHub Stats
-![Tehj's github stats](https://bad-apple-github-readme.vercel.app/api?username=t3hj&show_icons=true&count_private=true&line_height=20&icon_color=grape&title_color=indigo&theme=dark)
+![Tehj's github stats](https://bad-apple-github-readme.vercel.app/api?username=t3hj&show_icons=true&count_private=true&line_height=20&icon_color=%23862e9c&title_color=%23364fc7&theme=dark)
 
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=t3hj&layout=compact&count_private=true&theme=dark&title_color=indigo)](#)
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=t3hj&layout=compact&count_private=true&theme=dark&title_color=%23364fc7)](#)
 
-[![Tehj's current streak](https://streak-stats.demolab.com/?user=t3hj&count_private=true&theme=dark&title_color=indigo)](#)
+[![Tehj's current streak](https://streak-stats.demolab.com/?user=t3hj&count_private=true&theme=dark&title_color=%23364fc7)](#)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
