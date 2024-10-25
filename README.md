@@ -63,8 +63,8 @@ I'm a computer science enthusiast with a passion for software development ![💻
   <a href="https://www.instagram.com/t3hj_p/profilecard/?igsh=N3o0MDhoeHVubHVu" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
   </a>
-  <a href="https://discord.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Discord_icon.svg" alt="Discord" width="40" height="40"/>
+<a href="https://discord.com" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Discord_icon.svg" alt="Discord" width="40" height="40"/> nightslash
   </a>
   <a href="mailto:tehjpatel@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
