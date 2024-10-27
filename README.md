@@ -79,7 +79,7 @@ Feel free to check out my repositories and reach out if you'd like to collaborat
 
 <p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=t3hj&count_private=true&theme=shadow_blue&show_icons=true&locale=en" alt="t3hj" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t3hj&size_weight=0.5&count_weight=0.5&theme=shadow_blue&langs_count=8" alt="t3hj" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t3hj&size_weight=0.5&count_weight=0.5&theme=shadow_blue&langs_count=10" alt="t3hj" /></p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000px">
 <br><br>
