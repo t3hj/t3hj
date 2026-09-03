@@ -1,30 +1,144 @@
-# <br><img align="center" alt="Banner" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7">
+# Hi, I'm Tehj Patel 👋
 
-# 💫 About Me:
-I'm a computer science enthusiast with a passion for software development 💻 and cybersecurity 🔒. I enjoy exploring new technologies and working on exciting projects that challenge my skills. I'm currently pursuing opportunities in the tech industry, aiming to grow personally and professionally.<br><br>
+### Computer Science Graduate | Software Engineer | AI & Cybersecurity
 
+I'm a **BSc Computer Science graduate from Brunel University London** with a strong interest in **software engineering, artificial intelligence, cybersecurity and emerging technologies**.
 
-## 🌐 Socials:
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://t3hj.github.io/portfolio-website/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tehj-patel-56a5562a2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/t3hj_p/profilecard/)  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/tehjpatel) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@tehjpatel200) 
+I enjoy building practical software, solving technical problems and learning how different technologies can be combined to create useful applications. My experience includes developing full-stack applications, integrating AI into software, working with databases and APIs, and collaborating on Agile software projects.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=t3hj&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=t3hj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=t3hj&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=t3hj&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=t3hj&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I'm currently seeking opportunities in **software engineering, technology and cybersecurity**, where I can contribute to real-world projects while continuing to develop my technical skills.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=t3hj&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000px">
-<br><br>
+## 🚀 Featured Projects
+
+### 🔎 Local Lens — AI-Powered Civic Reporting Platform
+
+My final-year project was an AI-powered platform designed to make reporting local issues more efficient and intelligent.
+
+The system combines **AI-powered image analysis, geolocation, image hashing and priority scoring** to help categorise reports, identify potentially duplicate submissions and determine the urgency of reported issues.
+
+**Technologies:**
+`Python` `JavaScript` `React` `Supabase` `Claude Vision AI` `Geolocation` `Image Hashing`
+
+🔗 [View my portfolio](https://t3hj.github.io/portfolio-website/)
+
+---
+
+### 🥗 Healthy Habits
+
+A collaborative full-stack application developed as part of my university studies.
+
+I worked as both a **Developer and Scrum Master**, contributing to the development of the application while also helping coordinate the team's Agile workflow.
+
+**Technologies:**
+`React` `Java` `Spring Boot` `SQL` `REST APIs` `Git`
+
+---
+
+## 💻 Technical Skills
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+
+### Frameworks & Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### Databases & Backend
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge\&logo=raspberrypi\&logoColor=white)
+
+---
+
+## 🧠 Areas of Interest
+
+* Software Engineering
+* Artificial Intelligence & Machine Learning
+* Cybersecurity
+* Full-Stack Development
+* Backend Development
+* Cloud & Database Technologies
+* Algorithms & Problem Solving
+* Automation
+* Emerging Technologies
+
+---
+
+## 🎓 Education
+
+### Brunel University London
+
+**BSc Computer Science**
+2023 – 2026
+
+**Upper Second-Class Honours (2:1)**
+
+**Achievements:**
+
+* Academic Excellence CEDPS Scholarship
+* Brunel READY Certificate of Employability Skills
+* Leadership Award
+* Final-Year Project graded **A**
+
+---
+
+## 👨‍🏫 Professional Experience
+
+### RoboThink UK — STEM Instructor → Lead Instructor → Master Instructor
+
+Alongside my degree, I've worked in STEM education, teaching **robotics, programming and computational thinking** to students aged 4–14.
+
+My experience has developed both my technical and interpersonal skills through:
+
+* Teaching programming and robotics concepts
+* Troubleshooting hardware and software problems
+* Leading classes and holiday camps
+* Planning and preparing technical activities
+* Communicating technical concepts clearly
+* Supporting students with different learning styles
+* Providing feedback to parents
+* Taking on increasing levels of responsibility and leadership
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=t3hj\&show_icons=true\&theme=transparent\&hide_border=true\&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=t3hj\&layout=compact\&theme=transparent\&hide_border=true)
+
+---
+
+## 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://t3hj.github.io/portfolio-website/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/tehj-patel-56a5562a2)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/t3hj)
+
+---
+
+### Thanks for visiting!
+
+Feel free to explore my repositories and projects. I'm always interested in learning, building and exploring new technologies.
