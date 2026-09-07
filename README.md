@@ -125,13 +125,13 @@ My experience has developed both my technical and interpersonal skills through:
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=t3hj&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true)
+![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t3hj&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=t3hj&layout=compact&theme=transparent&hide_border=true)
+![Repositories Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=t3hj&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=t3hj&theme=transparent&hide_border=true)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=t3hj&theme=github_dark)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=t3hj&theme=github-compact&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=t3hj&theme=github-dark-blue&hide_border=true)
 
 ![GitHub Followers](https://img.shields.io/github/followers/t3hj?label=Followers&style=for-the-badge&logo=github)
 
