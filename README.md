@@ -125,9 +125,19 @@ My experience has developed both my technical and interpersonal skills through:
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=t3hj\&show_icons=true\&theme=transparent\&hide_border=true\&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=t3hj&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=t3hj\&layout=compact\&theme=transparent\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=t3hj&layout=compact&theme=transparent&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=t3hj&theme=transparent&hide_border=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=t3hj&theme=github-compact&hide_border=true)
+
+![GitHub Followers](https://img.shields.io/github/followers/t3hj?label=Followers&style=for-the-badge&logo=github)
+
+![GitHub Repositories](https://img.shields.io/badge/dynamic/json?color=181717&label=Public%20Repos&style=for-the-badge&logo=github&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ft3hj)
+
+![Profile Views](https://komarev.com/ghpvc/?username=t3hj&style=for-the-badge&color=blue)
 
 ---
 
