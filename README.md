@@ -125,19 +125,31 @@ My experience has developed both my technical and interpersonal skills through:
 
 ## 📊 GitHub Statistics
 
-![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t3hj&theme=github_dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t3hj&theme=github_dark" width="100%" />
+</p>
 
-![Repositories Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=t3hj&theme=github_dark)
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=t3hj&theme=github_dark" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=t3hj&theme=github_dark" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com/?user=t3hj&theme=github-dark-blue&hide_border=true" width="70%" />
+    </td>
+  </tr>
+</table>
 
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=t3hj&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=t3hj&theme=github-dark-blue&hide_border=true)
-
-![GitHub Followers](https://img.shields.io/github/followers/t3hj?label=Followers&style=for-the-badge&logo=github)
-
-![GitHub Repositories](https://img.shields.io/badge/dynamic/json?color=181717&label=Public%20Repos&style=for-the-badge&logo=github&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ft3hj)
-
-![Profile Views](https://komarev.com/ghpvc/?username=t3hj&style=for-the-badge&color=blue)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/t3hj?label=Followers&style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=181717&label=Public%20Repos&style=for-the-badge&logo=github&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ft3hj" />
+  <img src="https://komarev.com/ghpvc/?username=t3hj&style=for-the-badge&color=blue" />
+</p>
 
 ---
 
