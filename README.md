@@ -94,11 +94,8 @@ A prototype exploring deterministic checks, evidence-backed findings, risk scori
 </p>
 
 <details>
-<summary>More activity: contribution streak and commit languages</summary>
+<summary>More activity: languages ranked by commits</summary>
 
-<p align="center">
-  <img alt="Contribution streak: total contributions, current streak and longest streak" src="https://streak-stats.demolab.com/?user=t3hj&theme=github-dark-blue&hide_border=true" width="720" />
-</p>
 <p align="center">
   <img alt="Languages ranked by commits" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=t3hj&theme=github_dark" width="360" />
 </p>
