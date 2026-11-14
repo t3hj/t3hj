@@ -7,7 +7,7 @@
 Based in London, building practical software across full-stack development, AI and automation.
 
 [![Portfolio](https://img.shields.io/badge/View_my_portfolio-0B1F3A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://t3hj.github.io/portfolio-website/)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/tehj-patel-56a5562a2/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/tehj-k-patel/)
 
 **Open to graduate and junior opportunities in software engineering and technology.**
 
@@ -28,7 +28,7 @@ My work spans React and TypeScript interfaces, Java and Python applications, dat
 
 An authenticated staff application bringing attendance, lesson progression, assessments and feedback into one workflow. Includes role-aware dashboards, catch-up tracking and reporting.
 
-**React · TypeScript · Tailwind CSS · Supabase · PostgreSQL · Vitest**  
+**React · TypeScript · Tailwind CSS · Supabase · PostgreSQL · Vitest**
 [Explore the code](https://github.com/t3hj/RoboThink-Register)
 
 ### [Local Lens](https://github.com/t3hj/Local-Lens)
@@ -36,7 +36,7 @@ An authenticated staff application bringing attendance, lesson progression, asse
 
 A civic reporting application with AI-assisted issue descriptions, image metadata and geolocation, duplicate-photo protection, map views and council insights.
 
-**Python · Streamlit · Supabase · Ollama · Pandas**  
+**Python · Streamlit · Supabase · Claude / Ollama · Pandas**
 [Explore the code](https://github.com/t3hj/Local-Lens)
 
 ### [Sillage](https://github.com/t3hj/Sillage)
@@ -44,7 +44,7 @@ A civic reporting application with AI-assisted issue descriptions, image metadat
 
 Organise a collection, compare scents, find daily picks for the weather and occasion, and keep a wear journal. The live app stores collection data on the current device and supports backups and offline collection browsing.
 
-**JavaScript · Browser storage · Weather APIs · GitHub Pages**  
+**JavaScript · Browser storage · Weather APIs · GitHub Pages**
 [Try the live app](https://t3hj.github.io/Sillage/) · [Explore the code](https://github.com/t3hj/Sillage)
 
 ### [ForgeFlow](https://github.com/t3hj/ForgeFlow)
@@ -52,10 +52,19 @@ Organise a collection, compare scents, find daily picks for the weather and occa
 
 A prototype exploring deterministic checks, evidence-backed findings, risk scoring and an auditable finding lifecycle, with an authenticated API and React dashboard.
 
-**TypeScript · React · Node.js · Prisma · PostgreSQL · Redis**  
+**TypeScript · React · Node.js · Prisma · PostgreSQL · Redis**
 [Explore the code and current scope](https://github.com/t3hj/ForgeFlow)
 
 **More to explore:** [SwiftBot Navigation](https://github.com/t3hj/SwiftBotNavigation) · [All repositories](https://github.com/t3hj?tab=repositories) · [Full project portfolio](https://t3hj.github.io/portfolio-website/#projects)
+
+## Start with these projects
+
+| Project | Engineering focus | Review route |
+| --- | --- | --- |
+| RoboThink Register | Operational workflows, progression rules and staff permissions | README, unit tests and staff guides |
+| Local Lens | Image analysis, structured reporting and geolocation | README and Python service layer |
+| Sillage | Device-local data, offline behaviour and weather-based recommendations | Public explorer and Node tests |
+| ForgeFlow | API boundaries, queues, risk scoring and auditability | Architecture docs and tested domain modules |
 
 ## Technologies I work with
 
@@ -76,45 +85,20 @@ A prototype exploring deterministic checks, evidence-backed findings, risk scori
 
 **Interests:** software engineering, applied AI, cybersecurity, backend systems and automation.
 
-## GitHub activity
-
-<p align="center">
-  <a href="https://github.com/t3hj?tab=repositories"><img alt="Public repositories on GitHub" src="https://img.shields.io/badge/dynamic/json?color=0B1F3A&label=Public%20repositories&style=flat-square&logo=github&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ft3hj" /></a>
-  <a href="https://github.com/t3hj?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/t3hj?label=Followers&style=flat-square&color=0B1F3A&logo=github" /></a>
-  <a href="https://github.com/t3hj?tab=repositories"><img alt="Stars across GitHub repositories" src="https://img.shields.io/github/stars/t3hj?affiliations=OWNER&style=flat-square&color=0B1F3A&label=Repository%20stars" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/t3hj"><img alt="GitHub contribution activity overview" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t3hj&theme=github_dark" width="100%" /></a>
-</p>
-
-<p align="center">
-  <img alt="GitHub totals for commits, pull requests, issues and stars" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=t3hj&theme=github_dark" width="360" />
-  <img alt="Languages used across public repositories" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=t3hj&theme=github_dark" width="360" />
-</p>
-
-<details>
-<summary>More activity: languages ranked by commits</summary>
-
-<p align="center">
-  <img alt="Languages ranked by commits" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=t3hj&theme=github_dark" width="360" />
-</p>
-
-</details>
-
-<sub>Stats are generated by third-party services and may be cached or temporarily unavailable. Language charts describe repository activity rather than proficiency. [View my GitHub contribution history](https://github.com/t3hj).</sub>
-
 ## Education & experience
 
-**Brunel University London — BSc Computer Science, 2023–2026**  
+**Brunel University London — BSc Computer Science, 2023–2026**
 Upper Second-Class Honours (2:1) · Final-year project graded **A**
 
 Academic Excellence CEDPS Scholarship · Brunel READY Certificate of Employability Skills · Leadership Award
 
-**RoboThink UK — STEM Instructor → Lead Instructor → Master Instructor**  
+**RoboThink UK — STEM Instructor → Lead Instructor → Master Instructor**
 Teaching robotics, programming and computational thinking to children aged 4–14, leading classes and holiday camps, troubleshooting technical issues and communicating progress to parents.
 
-**Healthy Habits — Developer & Scrum Master**  
+**Mayerfeld Consulting — AI-Assisted Frontend Development Practicum, October 2026**
+Completed a one-month practicum building and presenting frontend projects. [Selected coursework](https://github.com/t3hj/AI-FD-Course).
+
+**Healthy Habits — Developer & Scrum Master**
 Contributed to a university team project using React, Java and Spring Boot, including registration and authentication work, while helping coordinate an Agile sprint.
 
 ---
@@ -123,6 +107,6 @@ Contributed to a university team project using React, Java and Spring Boot, incl
 
 **Have a role or project in mind? Let's connect.**
 
-[Portfolio](https://t3hj.github.io/portfolio-website/) · [LinkedIn](https://www.linkedin.com/in/tehj-patel-56a5562a2/) · [Explore my repositories](https://github.com/t3hj?tab=repositories)
+[Portfolio](https://t3hj.github.io/portfolio-website/) · [LinkedIn](https://www.linkedin.com/in/tehj-k-patel/) · [Explore my repositories](https://github.com/t3hj?tab=repositories)
 
 </div>
